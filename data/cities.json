@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "ce92",
+      "cityName": "Brezina",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-12-22T19:04:38.016Z",
+      "notes": "",
+      "position": {
+        "lat": "33.17434155100208",
+        "lng": "1.0107421875000002"
+      }
+    },
+    {
+      "id": "e6b3",
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-04T22:35:50.060Z",
+      "notes": "hi bro",
+      "position": {
+        "lat": "39.11301365149975",
+        "lng": "-4.7900390625"
+      }
+    },
+    {
+      "id": "dbc1",
+      "cityName": "Melenki",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-01-16T16:06:22.000Z",
+      "notes": "i loved this city",
+      "position": {
+        "lat": "55.42901345240742",
+        "lng": "41.39648437500001"
+      }
+    }
+  ]
+}
