@@ -4,6 +4,8 @@ Travel&Track is a React application that allows users to explore cities from aro
 
 ## Screenshots
 ![Image](https://github.com/youssefarag2/Travel-Track-React-WebApp/raw/master/public/Screenshot%202025-03-11%20051829.png)
+![Image](https://github.com/youssefarag2/Travel-Track-React-WebApp/blob/master/public/Screenshot%202025-03-11%20051907.png)
+
 ## Features
 
 - View a list of cities and their locations on a map.
